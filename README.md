@@ -2,7 +2,7 @@
  
   # Moisés Birck
   ## Software Developer
- ### :rocket: [Portfolio](https://moises-birck.github.io/portfolio/)
+ ### :rocket: [Portfolio](#)
 <br/>
 </div>
 
