@@ -13,7 +13,25 @@
 
 </div>
 
+<br/>
+
+---
+
+## 🏅 Certificações
+
+<div align="center">
   
+#### **Microsoft Certified: GitHub Copilot**
+<a href="https://learn.microsoft.com/api/credentials/share/en-us/MoisesBirck-2607/4FD8940EE6A9BC04?sharingId=CCAC01874A926C23" target="_blank">
+  <img src="https://img.shields.io/badge/Microsoft%20Copilot%20Certified-100000?style=for-the-badge&logo=microsoft&logoColor=white&labelColor=000000&color=3290e4" />
+</a>
+
+</div>
+
+---
+
+<br/>
+
 <div style="display: inline_block;" align="center"><br>
 
   <!-- Linguagens -->
@@ -42,11 +60,9 @@
 
 </div>
 
- 
-  ---
+---
 
 <div align="center"> 
   <a href = "mailto:Moises.moises-birck@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>      
   <a href="https://www.linkedin.com/in/moises-birck/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  
 </div>
